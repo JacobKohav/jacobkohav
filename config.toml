@@ -1,5 +1,5 @@
 # baseURL = 'http://example.org/' # Original
-baseURL = 'http://test.org/'
+baseURL = 'https://jacobkohav.github.io/jacobkohav/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
